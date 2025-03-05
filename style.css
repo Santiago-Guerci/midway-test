@@ -107,3 +107,9 @@ form p {
   color: #666;
   font-size: 0.9rem;
 }
+#midway {
+  background-color: blueviolet;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
